@@ -1,5 +1,5 @@
 # Line-Follower-Robot
-A line follower robot built using Arduino UNO and L293D Motor Driver Shield.</br>
+A line follower robot built using Arduino UNO and L293D Motor Driver Shield.</br></br>
 
 This robot has the following features:<br/>
 
